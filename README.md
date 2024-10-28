@@ -1,8 +1,10 @@
 # AutoClick v3
+![698fd684-339d-4a1f-adf2-dbc67dd5c396 (1)](https://github.com/user-attachments/assets/fc4f11d4-114a-4d01-a7c8-2c79d78b50b8)
 
 AutoClick v3 是一款功能強大的高速自動點擊工具，可適用於任何遊戲或應用程序。該軟體提供便捷的快捷鍵控制，可實現每秒上百次的點擊頻率（CPS），讓您在需要高頻點擊的任務中得心應手。
 
 ## 功能特點
+![image](https://github.com/user-attachments/assets/cdb8547a-5296-4632-8054-5552a65fdc4e)
 
 - **廣泛兼容性**：可在任意遊戲或應用程序中使用。
 - **高點擊頻率**：支援每秒達上百次點擊，適合高速、重複性的點擊任務。
