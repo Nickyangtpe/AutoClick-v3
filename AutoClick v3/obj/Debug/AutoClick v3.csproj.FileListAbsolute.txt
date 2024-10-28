@@ -1,0 +1,10 @@
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\bin\Debug\AutoClick v3.exe.config
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\bin\Debug\AutoClick v3.exe
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\bin\Debug\AutoClick v3.pdb
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick_v3.LoadForm.resources
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick_v3.MainForm.resources
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick_v3.Properties.Resources.resources
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick v3.csproj.GenerateResource.cache
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick v3.csproj.CoreCompileInputs.cache
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick v3.exe
+C:\Users\nicky\source\repos\AutoClick v3\AutoClick v3\obj\Debug\AutoClick v3.pdb
